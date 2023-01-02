@@ -1,0 +1,11 @@
+F.E ----- B.E
+
+interface -----req------> server side
+               API: application programming interface
+          <----res
+
+Node js (async)
+
+JSON : javaScript object notation
+
+HTTP requests : GET/POST/DELETE/PUT

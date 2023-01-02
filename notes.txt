@@ -1,0 +1,36 @@
+Q- React?
+A-*React is a front-end JavaScript library .
+  *Creates SPA(single page application)
+  *It follows the component-based approach which helps in building reusable UI components.
+  *It is used for developing complex and interactive web and mobile UI.
+  *Even though it was open-sourced only in 2015, it has one of the largest communities supporting it.
+  features of React:
+  -one way data flow
+  -jsx: js extenstion (js+html)
+  -component based
+  -virtual DOM
+  -performance
+
+Q- Components? types of component?
+A-Components are the building blocks of React applications.
+These components divide the entire React application's UI into small, independent, and reusable pieces of code. 
+TYPES: *Class components: referring to JavaScript classes.
+       *Functional components: referring to JavaScript function.
+
+Q- Props?
+A-*Props is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
+*Props are objects that could only be sent from parent component to children component
+
+Q- State?
+A-It is an object which decides how a specific component renders and how it behaves. 
+The state stores the information which can be changed over the lifetime of a React component.
+
+Q- Hooks? why use Hooks? name 4 hooks
+A-*Hooks is a new feature that has been introduced to React in order to make dynamic data manipulation easier.
+  *Allows you to use State, and other React features without writing a class.
+  4 hooks: useState,useEffect,useParams,useSelector...
+
+Q- Router? why use Router?
+A-React Router is a powerful routing library built on top of React.
+  *It is highly useful for adding new screens and flows to the application while keeping the URL in sync with the data displayed on the web page. 
+  *The React Router has a simple API and it maintains a standardized behavior and structure for developing single page web apps.
